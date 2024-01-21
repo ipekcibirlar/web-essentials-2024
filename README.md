@@ -2,12 +2,12 @@
 
 :exclamation: Houd deze repo 100% up-to-date :exclamation:
 
-| Student         | Info                                                             |
-|:----------------|:-----------------------------------------------------------------|
-| Name            | ...                                                              |
-| email           | [john.doe@example.com](mailto:john.doe@example.com)              |
-| Github Username | ...                                                              |
-| Hosting         | [https://yourdomain.netlify.app](https://yourdomain.netlify.app) |
+| Student         | Info                                                                |
+|:----------------|:--------------------------------------------------------------------|
+| Name            | Ipek Sabiha Cibirlar                                                |
+| email           | [r0793177@student.thomasmore.be](mailto:r0793177@student.thomasmore.be)       |
+| Github Username | ipekcibirlar                                                        |
+| Hosting         | [https://ipekcibirlar.netlify.app/](https://ipekcibirlar.netlify.app/) |
 
 ## Gebruik
 1. Start de lokale webserver vanuit de terminal van PhpStorm via het commando `npm run watch`
